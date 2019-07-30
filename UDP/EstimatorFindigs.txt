@@ -1,0 +1,106 @@
+Test on LAN:
+
+DatagramSize:  100
+DatagramCount: 1000
+Interval:      10
+
+Duplicates: 0 |   0%
+Reordered:  0 |   0% 
+Discarded:  0 |   0%
+Received: 1000| 100%
+-----------------------
+DatagramSize:  100
+DatagramCount: 1000
+Interval:      20
+
+Duplicates: 0 |   0%
+Reordered:  0 |   0% 
+Discarded:  0 |   0%
+Received: 1000| 100%
+-----------------------
+DatagramSize:  1000
+DatagramCount: 1000
+Interval:      20
+
+Duplicates: 0 |   0%
+Reordered:  0 |   0% 
+Discarded:  0 |   0%
+Received: 1000| 100%
+-----------------------
+DatagramSize:  1000
+DatagramCount: 1000
+Interval:      1
+
+Duplicates: 0 |   0%
+Reordered:  0 |   0% 
+Discarded:  0 |   0%
+Received: 1000| 100%
+-----------------------
+DatagramSize:  1000
+DatagramCount: 1000
+Interval:      40
+
+Duplicates: 0 |   0%
+Reordered:  0 |   0% 
+Discarded:  0 |   0%
+Received: 1000| 100%
+-----------------------
+-----------------------
+-----------------------
+WLAN
+
+DatagramSize:  100
+DatagramCount: 1000
+Interval:      10
+
+Duplicates: 0 |   0%
+Reordered:  0 |   0% 
+Discarded: 21 | 2.1%
+Received: 979 |  97%
+-----------------------
+DatagramSize:  100
+DatagramCount: 1000
+Interval:      20
+
+Duplicates: 0 |   0%
+Reordered:  0 |   0% 
+Discarded: 14 | 1.4%
+Received: 986 |98.6%
+-----------------------
+DatagramSize:  1000
+DatagramCount: 1000
+Interval:      20
+
+Duplicates: 0 |   0%
+Reordered:  0 |   0% 
+Discarded:  6 | 0.6%
+Received: 994 |99.4%
+-----------------------
+DatagramSize:  1000
+DatagramCount: 1000
+Interval:      1
+
+Duplicates: 0 |   0%
+Reordered:  0 |   0% 
+Discarded:  0 |   0%
+Received: 1000| 100%
+-----------------------
+DatagramSize:  1000
+DatagramCount: 1000
+Interval:      40
+
+Duplicates: 0 |   0%
+Reordered:  0 |   0% 
+Discarded:  8 | 0.8%
+Received: 992 |99.2%
+-----------------------
+-----------------------
+-----------------------
+Ethernet
+We didn't get to test this
+
+-----------------------
+-----------------------
+-----------------------
+Internet
+We couldn't test this
